@@ -5,6 +5,7 @@
       <map>
         <entry key="..\:/Users/dslam/AndroidStudioProjects/TwitchTop/app/src/main/res/drawable-v24/ic_baseline_feedback_24.xml" value="0.3828125" />
         <entry key="..\:/Users/dslam/AndroidStudioProjects/TwitchTop/app/src/main/res/layout/activity_main.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/dslam/AndroidStudioProjects/TwitchTop/app/src/main/res/layout/feedback_dialog.xml" value="0.25" />
         <entry key="..\:/Users/dslam/AndroidStudioProjects/TwitchTop/app/src/main/res/layout/fragment_feedback.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/dslam/AndroidStudioProjects/TwitchTop/app/src/main/res/layout/fragment_top_games.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/dslam/AndroidStudioProjects/TwitchTop/app/src/main/res/layout/top_games_list_item.xml" value="0.33" />
