@@ -18,7 +18,8 @@
             android:layout_height="wrap_content"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintTop_toTopOf="parent"
-            app:srcCompat="@drawable/ic_baseline_close_24" />
+            app:srcCompat="@drawable/ic_baseline_close_24"
+            android:contentDescription="@string/close" />
 
         <RatingBar
             android:id="@+id/ratingBar"
@@ -40,6 +41,7 @@
             android:layout_marginBottom="8dp"
             android:background="@color/purple_200"
             android:gravity="start|top"
+            android:hint="@string/hello_i_ru"
             android:inputType="textLongMessage|textAutoCorrect|textMultiLine|textPhonetic"
             android:padding="4dp"
             android:textAlignment="viewStart"
@@ -49,7 +51,8 @@
             app:layout_constraintHorizontal_bias="1.0"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/ratingBar"
-            app:layout_constraintVertical_bias="0.0" />
+            app:layout_constraintVertical_bias="0.0"
+            android:autofillHints="" />
 
         <Button
             android:id="@+id/btOk"
