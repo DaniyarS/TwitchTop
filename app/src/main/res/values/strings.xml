@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">TwitchTop</string>
+    <string name="name_label_ru">Название канала:</string>
+    <string name="channel_num_label_ru">Каналов:</string>
+    <string name="views_num_label_ru">Зрителей:</string>
+    <string name="top_games_ru">Топ игры</string>
+    <string name="feedback">Отзыв</string>
+    <string name="send_feedback">Написать отзыв</string>
+    <string name="icon">icon</string>
 </resources>
